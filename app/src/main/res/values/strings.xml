@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bet News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="news">News</string>
+    <string name="publication_date">Publication date</string>
+    <string name="full_content"><u>More info</u></string>
+    <string name="nothing_to_show">Nothing to show</string>
+</resources>
